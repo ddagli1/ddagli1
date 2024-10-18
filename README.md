@@ -20,7 +20,7 @@ Biliyor musunuz? Kod yazarken kendimizi birer süper kahraman gibi hissedebiliri
 Kod yazmak, tıpkı LEGO blokları ile oynamak gibidir. 🧱 Her bir kod parçası, büyük bir yapının küçük bir parçasıdır. Kendi dünyanı inşa edebilirsin!
 
 ### 💡 Kodlamaya Nasıl Başlayabiliriz?
-Kodlama öğrenmek için bir süper kahraman olmanız gerekmez! 👩‍🎤👨‍🎤 İhtiyacınız olan tek şey, bir bilgisayar ve biraz merak! Kodlar, hayal gücümüzü kullanarak harika projeler yapmamıza yardımcı olur. Bakın, bu projeyi bitirdiğinizde kendinizi nasıl hissedeceksiniz:
+Kodlama öğrenmek için bir süper kahraman olmanız gerekmez! 👩‍🎤👨‍🎤 İhtiyacınız olan tek şey, bir bilgisayar ve biraz merak! Kodlar, hayal gücümüzü kullanarak harika projeler yapmamıza yardımcı olur. Bakın, bir projeyi bitirdiğinizde kendinizi nasıl hissedeceksiniz:
 
 <img src="https://media.giphy.com/media/5GoVLqeAOo6PK/giphy.gif" alt="Başarı" width="300"/>
 
