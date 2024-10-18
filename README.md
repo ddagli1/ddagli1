@@ -10,6 +10,7 @@ Biliyor musunuz? Kod yazarken kendimizi birer süper kahraman gibi hissedebiliri
 <div align="center">
     <img src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif" alt="Merhaba" width="300"/>
 </div>
+
 ### 📚 Kodlama Neden Harika?
 - **Eğlenceli Oyunlar Yapabilirsiniz!** 🎮
 - **Dinozorlar Gibi Robotlar Tasarlayabilirsiniz!** 🦖
