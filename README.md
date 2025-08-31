@@ -26,7 +26,8 @@ Kodlama öğrenmek için bir süper kahraman olmanız gerekmez! 👩‍🎤👨�
 
 > "Kod yazmak, hayal gücümüzün ekranlara dökülmüş halidir! 🧙‍♂️"
 
-
+## Benim becerilerim:
+<img src="https://www.citypng.com/public/uploads/preview/hd-python-logo-symbol-transparent-png-735811696257415dbkifcuokn.png" width="10%">
 
 
 ### 🎈 Hadi birlikte eğlenceli projeler yapalım ve kod dünyasında maceralara atılalım! 
